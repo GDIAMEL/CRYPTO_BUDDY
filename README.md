@@ -1,0 +1,2 @@
+# CRYPTO_BUDDY
+AI BOT
