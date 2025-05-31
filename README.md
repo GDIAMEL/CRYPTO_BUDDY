@@ -42,7 +42,7 @@
    ```sh
    python crypto_buddy.py
    ```
-
+5. You can use the .ipynb file instead of .py if you wish.
 ---
 
 ## Usage
